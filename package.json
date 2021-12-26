@@ -37,6 +37,6 @@
     "sinon": "^3.0.0",
     "sinon-chai": "^2.13.0",
     "uglifyify": "^3.0.2",
-    "watchify": "^3.7.0"
+    "watchify": "4.0.0"
   }
 }
