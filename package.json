@@ -36,7 +36,7 @@
     "react-test-renderer": "^15.6.1",
     "sinon": "^3.0.0",
     "sinon-chai": "^2.13.0",
-    "uglifyify": "^3.0.2",
+    "uglifyify": "5.0.2",
     "watchify": "^3.7.0"
   }
 }
